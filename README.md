@@ -1,5 +1,5 @@
 
-## 📊 Project Objectives
+##  Project Objectives
 
 1. **Data Cleaning**:
    - Remove null values and duplicates.
@@ -21,7 +21,7 @@
 - **Matplotlib/Seaborn**: Data visualization.
 - **Jupyter Notebook**: Interactive environment for analysis.
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the Repository
 Clone this repository to your local machine:
